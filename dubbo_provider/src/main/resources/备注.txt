@@ -1,1 +1,7 @@
 文档地址:https://dubbo.gitbooks.io/dubbo-user-book/content/
+RPC:远程过程调用(进程间通信)
+    影响rpc的性能:网络通信、序列化与反序列化机制
+负载均衡:使每个服务都有一个均衡的负载量
+
+服务消费者配置
+    1、
